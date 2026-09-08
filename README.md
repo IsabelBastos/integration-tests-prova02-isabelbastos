@@ -1,5 +1,4 @@
-# API test automation with Jest and PactumJS
-
+# API test automation with Jest and PactumJSx
 > Simple integration between JestJS and PactumJS.
 
 ## GitHub Actions
